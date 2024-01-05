@@ -1,5 +1,5 @@
 # asciiart
-***please use python 3!*** (tested on 3.11)
+***please use python 3!*** (tested on 3.11)<br/>
 very simple ascii art generator made in python
 
 ## usage
