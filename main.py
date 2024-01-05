@@ -3,7 +3,6 @@ import numpy as np                          # import numpy for silly --meth-- ma
 import string                               # import string for silly ascii shenanigans
 
 PNW = [i for i in string.printable if i not in string.whitespace] # PNW: Printable Not Whitespace
-SPACE = " "                                                       # literally just a space
 
 def calclightness(chars, font, box):                                        # calculate lightness of each input char using PIL and numpy
     result = {}
